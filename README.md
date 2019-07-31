@@ -9,4 +9,4 @@ The unity project was built using version 2019.1.6f1.
 Copyright © Niantic, Inc. 2019. Patent Pending.
 All rights reserved.
 Please see the [license file](LICENSE) for terms.
-This distribution includes a difference checking script, depth post processing script, and a unity project for viewing results.
+This distribution includes a difference checking script, depth post processing script, and a unity asset files for viewing results.

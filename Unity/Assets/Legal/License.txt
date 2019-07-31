@@ -1,0 +1,7 @@
+The Bedroom 3d Model
+http://www.3drender.com/challenges/
+Modeled by David Vacek, design by David Tousek.
+Usage in rendering permitted, not included in files as permission has not been granted for redistribution.
+
+360 Degree renders generated using 360 Panorama Capture tool created by EvryDayVR
+https://assetstore.unity.com/packages/tools/camera/360-panorama-capture-38755

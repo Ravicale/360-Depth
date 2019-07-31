@@ -1,0 +1,28 @@
+Empirical Results:
+Eval1:
+	Monodepth- 
+		SSIM: 0.6223
+		MSE:  584.6
+		EBIQA: 0.8273
+	Facetmapping-
+		SSIM: 0.5895
+		MSE:  642.3
+		EBIQA: 0.8588
+Eval2:
+	Monodepth- 
+		SSIM: 0.6301
+		MSE:  734.6
+		EBIQA: 0.7209
+	Facetmapping-
+		SSIM: 0.5923
+		MSE:  710.6
+		EBIQA: 0.7322
+Eval3:
+	Monodepth- 
+		SSIM: 0.7677
+		MSE:  1096.5
+		EBIQA: 0.8279
+	Facetmapping-
+		SSIM: 0.7311
+		MSE:  1168.3
+		EBIQA: 0.8209

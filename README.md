@@ -3,7 +3,7 @@ Research attempt at simulating stereoscopic vision for each eye. Based on Monode
 
 ## Installation
 With a fresh Anaconda installation you can run the new script generate_depth.py by following the instructions given in the Monodepth2 repo. The find_diff.py evaluation script requires skimage 0.16.
-The unity project was built using version 2019.1.6f1.
+The unity project was built using version 2019.1.6f1, the assets included in the 'Unity' folder should be drag-and-drop into a fresh project with the Open-VR package.
 
 ## 👩‍⚖️ License
 Copyright © Niantic, Inc. 2019. Patent Pending.
